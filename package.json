@@ -10,6 +10,7 @@
     "webpack-cli": "^5.1.4"
   },
   "scripts": {
+    "stylelint": "npx stylelint \"**/*.{css,scss}\" --fix",
     "build": "webpack --config webpack.config.js"
   },
   "devDependencies": {
