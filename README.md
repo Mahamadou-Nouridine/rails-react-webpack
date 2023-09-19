@@ -17,6 +17,7 @@
     - [Usage](#usage)
     - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -97,11 +98,17 @@ To run tests, run the following commands:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add new greeting**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Mahamadou-Nouridine/rails-react-webpack/issues).
+Feel free to check the [issues page](https://github.com/mahamadou-nouridine/rails-budget-app/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,7 +120,8 @@ If you like this project give me a follow and/or a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for giving me this wonderful opportunity to work on this project.
+I would like to thank Microverse for giving me this wonderful opportunity to work on this project
+and [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) for the original design.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
