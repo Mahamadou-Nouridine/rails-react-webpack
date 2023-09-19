@@ -5,11 +5,8 @@ import React from 'react';
 import {Provider} from "react-redux"
 import store from './redux/store'
 import ReactDOM from 'react-dom';
-import Greeting from "./components/Greeting";
+import App from "./components/App";
 
-function App() {
-  return (<Greeting/>);
-}
 
 ReactDOM.render(
   <Provider store={store}>
